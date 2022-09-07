@@ -1,0 +1,2 @@
+**** THINGS I LEARNT WHILE WORKING ON MY Project "MUSIC PLAYER" ****
+1. Always save the previous file before working on next file :)
